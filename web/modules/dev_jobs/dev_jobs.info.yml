@@ -1,0 +1,6 @@
+name: dev_jobs
+type: module
+description: my dev_jobs module
+package: dev_jobs
+core: 8.x
+core_version_requirement: ^8 || ^9

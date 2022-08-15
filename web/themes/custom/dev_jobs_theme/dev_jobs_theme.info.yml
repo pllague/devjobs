@@ -1,0 +1,12 @@
+name: dev_jobs_theme
+description: my custom devjobs theme
+core: 8.x
+core_version_requirement: ^8 || ^9
+type: theme
+base theme: stable
+libraries:
+  - dev_jobs_theme/global-styling
+region:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
